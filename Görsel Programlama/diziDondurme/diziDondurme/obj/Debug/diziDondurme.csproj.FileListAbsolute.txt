@@ -1,0 +1,7 @@
+C:\Users\merve\source\repos\diziDondurme\diziDondurme\obj\Debug\diziDondurme.csprojAssemblyReference.cache
+C:\Users\merve\source\repos\diziDondurme\diziDondurme\obj\Debug\diziDondurme.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\diziDondurme\diziDondurme\bin\Debug\diziDondurme.exe.config
+C:\Users\merve\source\repos\diziDondurme\diziDondurme\bin\Debug\diziDondurme.exe
+C:\Users\merve\source\repos\diziDondurme\diziDondurme\bin\Debug\diziDondurme.pdb
+C:\Users\merve\source\repos\diziDondurme\diziDondurme\obj\Debug\diziDondurme.exe
+C:\Users\merve\source\repos\diziDondurme\diziDondurme\obj\Debug\diziDondurme.pdb

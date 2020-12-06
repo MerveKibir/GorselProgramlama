@@ -1,0 +1,7 @@
+C:\Users\merve\source\repos\metotlarinAsiriYüklenmesi\metotlarinAsiriYüklenmesi\obj\Debug\metotlarinAsiriYüklenmesi.csprojAssemblyReference.cache
+C:\Users\merve\source\repos\metotlarinAsiriYüklenmesi\metotlarinAsiriYüklenmesi\obj\Debug\metotlarinAsiriYüklenmesi.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\metotlarinAsiriYüklenmesi\metotlarinAsiriYüklenmesi\bin\Debug\metotlarinAsiriYüklenmesi.exe.config
+C:\Users\merve\source\repos\metotlarinAsiriYüklenmesi\metotlarinAsiriYüklenmesi\bin\Debug\metotlarinAsiriYüklenmesi.exe
+C:\Users\merve\source\repos\metotlarinAsiriYüklenmesi\metotlarinAsiriYüklenmesi\bin\Debug\metotlarinAsiriYüklenmesi.pdb
+C:\Users\merve\source\repos\metotlarinAsiriYüklenmesi\metotlarinAsiriYüklenmesi\obj\Debug\metotlarinAsiriYüklenmesi.exe
+C:\Users\merve\source\repos\metotlarinAsiriYüklenmesi\metotlarinAsiriYüklenmesi\obj\Debug\metotlarinAsiriYüklenmesi.pdb

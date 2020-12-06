@@ -1,0 +1,7 @@
+C:\Users\merve\source\repos\virtualinterface\virtualinterface\obj\Debug\virtualinterface.csprojAssemblyReference.cache
+C:\Users\merve\source\repos\virtualinterface\virtualinterface\obj\Debug\virtualinterface.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\virtualinterface\virtualinterface\bin\Debug\virtualinterface.exe.config
+C:\Users\merve\source\repos\virtualinterface\virtualinterface\bin\Debug\virtualinterface.exe
+C:\Users\merve\source\repos\virtualinterface\virtualinterface\bin\Debug\virtualinterface.pdb
+C:\Users\merve\source\repos\virtualinterface\virtualinterface\obj\Debug\virtualinterface.exe
+C:\Users\merve\source\repos\virtualinterface\virtualinterface\obj\Debug\virtualinterface.pdb

@@ -1,0 +1,6 @@
+C:\Users\merve\source\repos\tahminoyunu\tahminoyunu\bin\Debug\tahminoyunu.exe.config
+C:\Users\merve\source\repos\tahminoyunu\tahminoyunu\bin\Debug\tahminoyunu.exe
+C:\Users\merve\source\repos\tahminoyunu\tahminoyunu\bin\Debug\tahminoyunu.pdb
+C:\Users\merve\source\repos\tahminoyunu\tahminoyunu\obj\Debug\tahminoyunu.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\tahminoyunu\tahminoyunu\obj\Debug\tahminoyunu.exe
+C:\Users\merve\source\repos\tahminoyunu\tahminoyunu\obj\Debug\tahminoyunu.pdb

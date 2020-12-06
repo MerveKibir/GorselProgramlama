@@ -1,0 +1,6 @@
+C:\Users\merve\source\repos\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\merve\source\repos\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\merve\source\repos\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\merve\source\repos\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\merve\source\repos\Interface\Interface\obj\Debug\Interface.pdb

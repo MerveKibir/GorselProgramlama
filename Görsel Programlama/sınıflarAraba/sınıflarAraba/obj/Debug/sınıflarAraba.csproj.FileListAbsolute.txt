@@ -1,0 +1,6 @@
+C:\Users\merve\source\repos\sınıflarAraba\sınıflarAraba\bin\Debug\sınıflarAraba.exe.config
+C:\Users\merve\source\repos\sınıflarAraba\sınıflarAraba\bin\Debug\sınıflarAraba.exe
+C:\Users\merve\source\repos\sınıflarAraba\sınıflarAraba\bin\Debug\sınıflarAraba.pdb
+C:\Users\merve\source\repos\sınıflarAraba\sınıflarAraba\obj\Debug\sınıflarAraba.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\sınıflarAraba\sınıflarAraba\obj\Debug\sınıflarAraba.exe
+C:\Users\merve\source\repos\sınıflarAraba\sınıflarAraba\obj\Debug\sınıflarAraba.pdb

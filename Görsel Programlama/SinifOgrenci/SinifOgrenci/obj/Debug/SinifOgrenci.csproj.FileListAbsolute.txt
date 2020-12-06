@@ -1,0 +1,6 @@
+C:\Users\merve\source\repos\SinifOgrenci\SinifOgrenci\bin\Debug\SinifOgrenci.exe.config
+C:\Users\merve\source\repos\SinifOgrenci\SinifOgrenci\bin\Debug\SinifOgrenci.exe
+C:\Users\merve\source\repos\SinifOgrenci\SinifOgrenci\bin\Debug\SinifOgrenci.pdb
+C:\Users\merve\source\repos\SinifOgrenci\SinifOgrenci\obj\Debug\SinifOgrenci.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\SinifOgrenci\SinifOgrenci\obj\Debug\SinifOgrenci.exe
+C:\Users\merve\source\repos\SinifOgrenci\SinifOgrenci\obj\Debug\SinifOgrenci.pdb

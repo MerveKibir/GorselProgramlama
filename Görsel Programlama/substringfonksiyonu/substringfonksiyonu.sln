@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "substringfonksiyonu", "substringfonksiyonu\substringfonksiyonu.csproj", "{CEAE0D80-8D99-4C56-B511-371C5795A7B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEAE0D80-8D99-4C56-B511-371C5795A7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAE0D80-8D99-4C56-B511-371C5795A7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAE0D80-8D99-4C56-B511-371C5795A7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAE0D80-8D99-4C56-B511-371C5795A7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F2CE94-E1AD-4467-909D-C5833DAFB199}
+	EndGlobalSection
+EndGlobal

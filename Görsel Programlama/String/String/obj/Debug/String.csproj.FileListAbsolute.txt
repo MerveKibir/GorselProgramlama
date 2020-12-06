@@ -1,0 +1,6 @@
+C:\Users\merve\source\repos\String\String\bin\Debug\String.exe.config
+C:\Users\merve\source\repos\String\String\bin\Debug\String.exe
+C:\Users\merve\source\repos\String\String\bin\Debug\String.pdb
+C:\Users\merve\source\repos\String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\String\String\obj\Debug\String.exe
+C:\Users\merve\source\repos\String\String\obj\Debug\String.pdb

@@ -1,0 +1,7 @@
+C:\Users\merve\source\repos\sesliharfbulma\sesliharfbulma\bin\Debug\sesliharfbulma.exe.config
+C:\Users\merve\source\repos\sesliharfbulma\sesliharfbulma\bin\Debug\sesliharfbulma.exe
+C:\Users\merve\source\repos\sesliharfbulma\sesliharfbulma\bin\Debug\sesliharfbulma.pdb
+C:\Users\merve\source\repos\sesliharfbulma\sesliharfbulma\obj\Debug\sesliharfbulma.csprojAssemblyReference.cache
+C:\Users\merve\source\repos\sesliharfbulma\sesliharfbulma\obj\Debug\sesliharfbulma.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\sesliharfbulma\sesliharfbulma\obj\Debug\sesliharfbulma.exe
+C:\Users\merve\source\repos\sesliharfbulma\sesliharfbulma\obj\Debug\sesliharfbulma.pdb

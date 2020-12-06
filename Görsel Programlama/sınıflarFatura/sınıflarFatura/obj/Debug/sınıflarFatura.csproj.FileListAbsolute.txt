@@ -1,0 +1,7 @@
+C:\Users\merve\source\repos\sınıflarFatura\sınıflarFatura\bin\Debug\sınıflarFatura.exe.config
+C:\Users\merve\source\repos\sınıflarFatura\sınıflarFatura\bin\Debug\sınıflarFatura.exe
+C:\Users\merve\source\repos\sınıflarFatura\sınıflarFatura\bin\Debug\sınıflarFatura.pdb
+C:\Users\merve\source\repos\sınıflarFatura\sınıflarFatura\obj\Debug\sınıflarFatura.csprojAssemblyReference.cache
+C:\Users\merve\source\repos\sınıflarFatura\sınıflarFatura\obj\Debug\sınıflarFatura.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\sınıflarFatura\sınıflarFatura\obj\Debug\sınıflarFatura.exe
+C:\Users\merve\source\repos\sınıflarFatura\sınıflarFatura\obj\Debug\sınıflarFatura.pdb

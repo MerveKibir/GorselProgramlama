@@ -1,0 +1,7 @@
+C:\Users\merve\source\repos\araba\araba\bin\Debug\araba.exe.config
+C:\Users\merve\source\repos\araba\araba\bin\Debug\araba.exe
+C:\Users\merve\source\repos\araba\araba\bin\Debug\araba.pdb
+C:\Users\merve\source\repos\araba\araba\obj\Debug\araba.csprojAssemblyReference.cache
+C:\Users\merve\source\repos\araba\araba\obj\Debug\araba.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\araba\araba\obj\Debug\araba.exe
+C:\Users\merve\source\repos\araba\araba\obj\Debug\araba.pdb

@@ -1,0 +1,7 @@
+C:\Users\merve\source\repos\dizisiralama\dizisiralama\bin\Debug\dizisiralama.exe.config
+C:\Users\merve\source\repos\dizisiralama\dizisiralama\bin\Debug\dizisiralama.exe
+C:\Users\merve\source\repos\dizisiralama\dizisiralama\bin\Debug\dizisiralama.pdb
+C:\Users\merve\source\repos\dizisiralama\dizisiralama\obj\Debug\dizisiralama.csprojAssemblyReference.cache
+C:\Users\merve\source\repos\dizisiralama\dizisiralama\obj\Debug\dizisiralama.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\dizisiralama\dizisiralama\obj\Debug\dizisiralama.exe
+C:\Users\merve\source\repos\dizisiralama\dizisiralama\obj\Debug\dizisiralama.pdb

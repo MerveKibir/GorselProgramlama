@@ -1,0 +1,7 @@
+C:\Users\merve\source\repos\substringfonksiyonu\substringfonksiyonu\bin\Debug\substringfonksiyonu.exe.config
+C:\Users\merve\source\repos\substringfonksiyonu\substringfonksiyonu\bin\Debug\substringfonksiyonu.exe
+C:\Users\merve\source\repos\substringfonksiyonu\substringfonksiyonu\bin\Debug\substringfonksiyonu.pdb
+C:\Users\merve\source\repos\substringfonksiyonu\substringfonksiyonu\obj\Debug\substringfonksiyonu.csprojAssemblyReference.cache
+C:\Users\merve\source\repos\substringfonksiyonu\substringfonksiyonu\obj\Debug\substringfonksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\substringfonksiyonu\substringfonksiyonu\obj\Debug\substringfonksiyonu.exe
+C:\Users\merve\source\repos\substringfonksiyonu\substringfonksiyonu\obj\Debug\substringfonksiyonu.pdb

@@ -1,0 +1,7 @@
+C:\Users\merve\source\repos\trycatchilebolum\trycatchilebolum\bin\Debug\trycatchilebolum.exe.config
+C:\Users\merve\source\repos\trycatchilebolum\trycatchilebolum\bin\Debug\trycatchilebolum.exe
+C:\Users\merve\source\repos\trycatchilebolum\trycatchilebolum\bin\Debug\trycatchilebolum.pdb
+C:\Users\merve\source\repos\trycatchilebolum\trycatchilebolum\obj\Debug\trycatchilebolum.csprojAssemblyReference.cache
+C:\Users\merve\source\repos\trycatchilebolum\trycatchilebolum\obj\Debug\trycatchilebolum.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\trycatchilebolum\trycatchilebolum\obj\Debug\trycatchilebolum.exe
+C:\Users\merve\source\repos\trycatchilebolum\trycatchilebolum\obj\Debug\trycatchilebolum.pdb

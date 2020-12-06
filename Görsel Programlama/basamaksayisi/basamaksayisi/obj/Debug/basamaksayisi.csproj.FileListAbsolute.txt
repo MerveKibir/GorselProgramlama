@@ -1,0 +1,7 @@
+C:\Users\merve\source\repos\basamaksayisi\basamaksayisi\obj\Debug\basamaksayisi.csprojAssemblyReference.cache
+C:\Users\merve\source\repos\basamaksayisi\basamaksayisi\obj\Debug\basamaksayisi.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\basamaksayisi\basamaksayisi\bin\Debug\basamaksayisi.exe.config
+C:\Users\merve\source\repos\basamaksayisi\basamaksayisi\bin\Debug\basamaksayisi.exe
+C:\Users\merve\source\repos\basamaksayisi\basamaksayisi\bin\Debug\basamaksayisi.pdb
+C:\Users\merve\source\repos\basamaksayisi\basamaksayisi\obj\Debug\basamaksayisi.exe
+C:\Users\merve\source\repos\basamaksayisi\basamaksayisi\obj\Debug\basamaksayisi.pdb

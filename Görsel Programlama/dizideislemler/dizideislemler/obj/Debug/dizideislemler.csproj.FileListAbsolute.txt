@@ -1,0 +1,7 @@
+C:\Users\merve\source\repos\dizideislemler\dizideislemler\bin\Debug\dizideislemler.exe.config
+C:\Users\merve\source\repos\dizideislemler\dizideislemler\bin\Debug\dizideislemler.exe
+C:\Users\merve\source\repos\dizideislemler\dizideislemler\bin\Debug\dizideislemler.pdb
+C:\Users\merve\source\repos\dizideislemler\dizideislemler\obj\Debug\dizideislemler.csprojAssemblyReference.cache
+C:\Users\merve\source\repos\dizideislemler\dizideislemler\obj\Debug\dizideislemler.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\dizideislemler\dizideislemler\obj\Debug\dizideislemler.exe
+C:\Users\merve\source\repos\dizideislemler\dizideislemler\obj\Debug\dizideislemler.pdb
